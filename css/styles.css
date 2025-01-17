@@ -338,14 +338,12 @@ padding-left: 15px;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
-    padding-left: 15px;
+    padding-left: 15px; 
+    display: inline-block;
+    margin-bottom: 16px;
 }
 
 .logo-footer{
     color: #f4f4fd;
-}
-.footer .a{
-    display: inline-block;
-    margin-bottom: 16px;
 }
 /* #endregion footer*/

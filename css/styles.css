@@ -305,6 +305,12 @@ text-align: left;
     padding-bottom: 32px;
     padding-left: 16px;
 }
+.card {
+    padding: 32px 16px;
+    border: 1px solid #e7e9fc;
+    border-top: none;
+    margin-bottom: 8px;
+}
 /* #endregion fourth section*/
 
 /* #region footer*/
@@ -336,5 +342,9 @@ padding-left: 15px;
 
 .logo-footer{
     color: #f4f4fd;
+}
+.container .a{
+    display: inline-block;
+    margin-bottom: 16px;
 }
 /* #endregion footer*/
